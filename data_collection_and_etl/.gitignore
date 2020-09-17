@@ -1,0 +1,5 @@
+.census_api_key
+data/
+__pycache__/
+.ipynb_checkpoints/
+*.swp
